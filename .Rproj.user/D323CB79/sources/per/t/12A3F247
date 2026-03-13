@@ -1,0 +1,27 @@
+{
+    "id": "12A3F247",
+    "path": "D:/4DS8/Statistics/AMIGO_R_Project/R/01_load_and_clean.R",
+    "project_path": "R/01_load_and_clean.R",
+    "type": "r_source",
+    "hash": "3262911011",
+    "contents": "",
+    "dirty": false,
+    "created": 1763509137423.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "32,0",
+        "scrollLine": "11"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1763511666,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1763511666545,
+    "read_only": false,
+    "read_only_alternatives": []
+}

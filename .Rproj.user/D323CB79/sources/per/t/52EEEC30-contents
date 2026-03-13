@@ -1,0 +1,9 @@
+lion =c(29,12,62,64,43,21,35,89,8,32,47,61)
+Npos=sum(lion > 50)
+Npos
+Nneg=sum(lion < 50)
+Nneg
+p_value=2*min(pbinom(Npos, 12, 0.5), 1-pbinom(Npos, 12, 0.5))
+p_value
+# p_value = 0.39 > 0.05 = alpha on accepte H0 (test bilaterale)
+# suite du tp corrigé se trouve dans blackboard
